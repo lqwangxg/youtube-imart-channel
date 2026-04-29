@@ -1,2 +1,14 @@
-# youtube-imart-channel
+# intra-mart コンテナ運用ラボ
+## Docker / CI/CD / 運用自動化 / 障害解析
 intra-mart コンテナ運用ラボへようこそ。本チャンネルでは、企業システムで多く利用されている intra-mart を中心に、Docker / コンテナ環境での運用・移行・改善ノウハウを実践ベースで解説します。
+
+### 主なテーマ：
+- intra-mart の Docker / コンテナ化運用
+- Resin / Apache / IIS / NGINX / Java基盤の運用改善
+- immデプロイ、warデプロイの自動化
+- バージョンアップ、障害調査、性能問題の解析
+- CI/CD（GitLab、Jenkins等）による自動化
+- Oracle / PostgreSQL などDB周りの運用と移行
+
+「現場で本当に使える」ことを重視し、手順だけでなく原因・設計思想・落とし穴まで含めて解説します。
+企業IT基盤の運用改善・コンテナ移行に取り組むエンジニアの方に役立つ内容を発信していきます。
